@@ -33,10 +33,6 @@ focus:
   - Real-time & AI-powered Systems
   - Competitive Programming
 
-currently_building:
-  - AI SaaS products
-  - High-performance web apps
-
 cp_stats:
   codeforces: "Specialist · Max 1420"
   codechef:   "2★ · Max 1447"
@@ -73,7 +69,6 @@ cp_stats:
 
 #### 🗣️ Converso — AI Voice Learning SaaS
 [![Live](https://img.shields.io/badge/🌐%20Live%20Demo-7f00ff?style=flat-square)](https://saas-app-9mwu.vercel.app/)
-![Next.js](https://img.shields.io/badge/Next.js%2015-black?style=flat-square&logo=nextdotjs) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vapi](https://img.shields.io/badge/Vapi%20AI-7f00ff?style=flat-square) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
 > SaaS platform to build personalized AI voice companions for real-time educational conversations.
 
@@ -87,7 +82,6 @@ cp_stats:
 
 #### 🧑‍💻 CodeSync — Live Interview Platform
 [![Live](https://img.shields.io/badge/🌐%20Live%20Demo-1F8ACB?style=flat-square)](https://interview-platform-kappa-henna.vercel.app/)
-![Next.js](https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square) ![Stream](https://img.shields.io/badge/Stream%20SDK-005FFF?style=flat-square)
 
 > Real-time collaborative coding platform built for technical interviews.
 
@@ -103,7 +97,6 @@ cp_stats:
 
 #### 💬 Chatty — Real-time Chat App
 [![Live](https://img.shields.io/badge/🌐%20Live%20Demo-47A248?style=flat-square)](https://fullstack-chat-app-uctl.onrender.com/login)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
 
 > Production-grade real-time messaging built for scale and speed.
 
@@ -117,7 +110,6 @@ cp_stats:
 
 #### 🧠 AI Lecture Intelligence Tool
 [![Repo](https://img.shields.io/badge/📂%20GitHub%20Repo-333?style=flat-square&logo=github)](https://github.com/Akarshkushwaha/AI-Lecture-Intelligence-Tool)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=flat-square&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
 
 > End-to-end pipeline that transforms lecture videos into structured study notes.
 
