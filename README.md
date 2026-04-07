@@ -162,7 +162,7 @@ Production-grade messaging app with **sub-50ms latency** built for high concurre
 
 ### 🧠 [AI Lecture Intelligence Tool](https://github.com/Akarshkushwaha/AI-Lecture-Intelligence-Tool)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python]
 ![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![BART/T5](https://img.shields.io/badge/BART%2FT5-FF6B6B?style=flat-square)
