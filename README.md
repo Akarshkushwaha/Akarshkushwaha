@@ -147,7 +147,7 @@ cp_stats:
 │                                                                     │
 │  🥇  Global Rank #1299  —  Codeforces Round #1067 (Div. 2)         │
 │  🥇  Global Rank #2569  —  LeetCode Weekly Contest #458            │
-│  🏅  Winner   —  Hackfista Web Hackathon  &  CP20, MJPRU           │
+           │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
