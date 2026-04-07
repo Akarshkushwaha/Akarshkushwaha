@@ -186,13 +186,9 @@ An end-to-end automated pipeline that converts lecture videos into structured st
 
 ---
 
-## 🎓 Education & Leadership
+## 🎓 Education
 
 **🎓 MJP Rohilkhand University, Bareilly** — B.Tech in CS & IT *(2023 – 2027)* · CGPA: **7.6/10**
-
-- 🔧 **Technical Head — IT Clinic, MJPRU**: Led workshops and innovation projects for **200+ students**
-- 🎪 **Hackathon Host — Captivators Club**: Organized **5+ university-level hackathons**
-- 📋 **Placement Volunteer — Career & Placement Cell**: Coordinated training sessions and company drives
 
 ---
 
