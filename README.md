@@ -192,7 +192,6 @@ Automated pipeline: **lecture video → structured notes** with 70% less manual 
 | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | **4★** | Strong problem solver |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **600+ solved** | Global Rank **#2569** — Weekly Contest #458 |
 
-🏅 **Winner** — Hackfista Web Hackathon & CP20 · IT Clinic, MJPRU
 
 </div>
 
