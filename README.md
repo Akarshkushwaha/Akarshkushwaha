@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:a855f7,100:e100ff&height=220&section=header&text=Akarsh%20Kushwaha&fontSize=60&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20AI%20Builder&descSize=16&descColor=e2d9ff&descAlignY=58&animation=twinkling" width="100%" />
+# Akarsh Kushwaha
+
+### Full Stack Engineer · Competitive Programmer · AI Builder
 
 <br/>
 
@@ -16,8 +18,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;Crafting+real-time+%26+AI-powered+systems+%F0%9F%A7%A0;600%2B+DSA+problems+solved+%F0%9F%92%AA;Codeforces+Specialist+%7C+Max+Rating+1420+%E2%9C%A8" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -63,11 +63,7 @@ cp_stats:
 
 ### 🗣️ Converso — AI Voice Learning SaaS
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-7f00ff?style=flat-square)](https://saas-app-9mwu.vercel.app/)
-![Next.js](https://img.shields.io/badge/Next.js%2015-black?style=flat-square&logo=nextdotjs)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vapi AI](https://img.shields.io/badge/Vapi%20AI-7f00ff?style=flat-square)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square)
+**Stack:** Next.js 15, Clerk, Supabase, Vapi AI, Tailwind CSS
 
 SaaS platform to create personalized **AI voice companions** for real-time educational conversations.
 
@@ -76,16 +72,14 @@ SaaS platform to create personalized **AI voice companions** for real-time educa
 - 📚 Session history, bookmarks & subject filtering
 - ☁️ Deployed on **Vercel** with CI/CD
 
+🔗 [Live Demo](https://saas-app-9mwu.vercel.app/)
+
 </td>
 <td width="50%" valign="top">
 
 ### 💻 CodeSync — Live Interview Platform
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-1F8ACB?style=flat-square)](https://interview-platform-kappa-henna.vercel.app/)
-![Next.js](https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square)
-![Stream SDK](https://img.shields.io/badge/Stream%20SDK-005FFF?style=flat-square)
+**Stack:** Next.js 14, TypeScript, Convex, Clerk, Stream SDK
 
 Real-time **collaborative coding** platform built for technical interviews.
 
@@ -94,6 +88,8 @@ Real-time **collaborative coding** platform built for technical interviews.
 - 🔒 OAuth + JWT + RBAC via **Clerk**
 - ✅ Code execution engine with instant feedback
 
+🔗 [Live Demo](https://interview-platform-kappa-henna.vercel.app/)
+
 </td>
 </tr>
 <tr>
@@ -101,11 +97,7 @@ Real-time **collaborative coding** platform built for technical interviews.
 
 ### 💬 Chatty — Real-time Chat App
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-47A248?style=flat-square)](https://fullstack-chat-app-uctl.onrender.com/login)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Stack:** React, Node.js, Express, Socket.IO, MongoDB, JWT
 
 Production-grade messaging app with **sub-50ms latency** built for high concurrency.
 
@@ -114,16 +106,14 @@ Production-grade messaging app with **sub-50ms latency** built for high concurre
 - 🔑 JWT auth + **bcrypt** password hashing
 - 👥 Supports **100+ concurrent users**
 
+🔗 [Live Demo](https://fullstack-chat-app-uctl.onrender.com/login)
+
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 AI Lecture Intelligence Tool
 
-[![GitHub](https://img.shields.io/badge/📂%20GitHub%20Repo-333?style=flat-square&logo=github)](https://github.com/Akarshkushwaha/AI-Lecture-Intelligence-Tool)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
+**Stack:** Python, OpenAI Whisper, HuggingFace, BART/T5, Gradio
 
 Automated pipeline: **lecture video → structured notes** with 70% less manual effort.
 
@@ -131,6 +121,8 @@ Automated pipeline: **lecture video → structured notes** with 70% less manual 
 - 📝 **BART/T5 transformers** for abstractive summaries
 - ⏱️ **70% reduction** in synthesis time
 - 🖥️ One-click **Gradio** interface
+
+🔗 [GitHub Repo](https://github.com/Akarshkushwaha/AI-Lecture-Intelligence-Tool)
 
 </td>
 </tr>
@@ -144,10 +136,10 @@ Automated pipeline: **lecture video → structured notes** with 70% less manual 
 
 | Platform | Rank / Rating | Highlight |
 |:---:|:---:|:---:|
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **Specialist · 1420** | Global Rank **#1299** — Round #1067 Div. 2 |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **2★ · 1447** | 70+ coding contests |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | **4★** | Strong problem solver |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **600+ solved** | Global Rank **#2569** — Weekly Contest #458 |
+| Codeforces | **Specialist · 1420** | Global Rank **#1299** — Round #1067 Div. 2 |
+| CodeChef | **2★ · 1447** | 70+ coding contests |
+| HackerRank | **4★** | Strong problem solver |
+| LeetCode | **600+ solved** | Global Rank **#2569** — Weekly Contest #458 |
 
 🏅 **Winner** — Hackfista Web Hackathon & CP20 · IT Clinic, MJPRU
 
@@ -175,8 +167,6 @@ Automated pipeline: **lecture video → structured notes** with 70% less manual 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e100ff,50:a855f7,100:7f00ff&height=120&section=footer" width="100%" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=Akarshkushwaha&style=flat-square&color=a855f7&label=Profile+Visitors)
 
