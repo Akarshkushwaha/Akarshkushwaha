@@ -47,52 +47,38 @@ cp_stats:
 <div align="center">
 
 **Languages**
+&nbsp;
+`C++` &nbsp; `Python` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `SQL`
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white)
+---
 
 **Frontend**
+&nbsp;
+`Next.js` &nbsp; `React.js` &nbsp; `Vue.js` &nbsp; `Redux` &nbsp; `Tailwind CSS`
 
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
+---
 
 **Backend**
+&nbsp;
+`Node.js` &nbsp; `Express.js` &nbsp; `Django` &nbsp; `REST APIs` &nbsp; `WebSockets (Socket.IO)`
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=flat-square&logo=socketdotio&logoColor=white)
+---
 
 **AI / ML**
+&nbsp;
+`PyTorch` &nbsp; `HuggingFace Transformers` &nbsp; `OpenAI Whisper` &nbsp; `Gradio`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI Whisper](https://img.shields.io/badge/OpenAI%20Whisper-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-%23F97316.svg?style=flat-square)
+---
 
 **Databases & Cloud**
+&nbsp;
+`PostgreSQL` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Supabase` &nbsp; `AWS (EC2)`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
+---
 
 **DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+&nbsp;
+`Docker` &nbsp; `Kubernetes` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `CI/CD` &nbsp; `Vercel` &nbsp; `Postman`
 
 </div>
 
@@ -162,7 +148,7 @@ Production-grade messaging app with **sub-50ms latency** built for high concurre
 
 ### 🧠 [AI Lecture Intelligence Tool](https://github.com/Akarshkushwaha/AI-Lecture-Intelligence-Tool)
 
-![Python]
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![BART/T5](https://img.shields.io/badge/BART%2FT5-FF6B6B?style=flat-square)
@@ -192,6 +178,7 @@ Automated pipeline: **lecture video → structured notes** with 70% less manual 
 | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | **4★** | Strong problem solver |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **600+ solved** | Global Rank **#2569** — Weekly Contest #458 |
 
+🏅 **Winner** — Hackfista Web Hackathon & CP20 · IT Clinic, MJPRU
 
 </div>
 
