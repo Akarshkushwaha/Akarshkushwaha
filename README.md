@@ -154,14 +154,6 @@ Automated pipeline: **lecture video → structured notes** with 70% less manual 
 <img src="https://github-readme-stats.vercel.app/api?username=Akarshkushwaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2d9ff&icon_color=a855f7&rank_icon=github" width="49%" />
 <img src="https://streak-stats.demolab.com?user=Akarshkushwaha&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a855f7&fire=e100ff&currStreakLabel=a855f7&sideLabels=a855f7&dates=e2d9ff&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarshkushwaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2d9ff&langs_count=7" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akarshkushwaha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
-
 </div>
 
 ---
