@@ -141,7 +141,6 @@ Automated pipeline: **lecture video → structured notes** with 70% less manual 
 | HackerRank | **4★** | Strong problem solver |
 | LeetCode | **600+ solved** | Global Rank **#2569** — Weekly Contest #458 |
 
-
 </div>
 
 ---
@@ -150,8 +149,7 @@ Automated pipeline: **lecture video → structured notes** with 70% less manual 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akarshkushwaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2d9ff&icon_color=a855f7&rank_icon=github" width="49%" />
-<img src="https://streak-stats.demolab.com?user=Akarshkushwaha&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a855f7&fire=e100ff&currStreakLabel=a855f7&sideLabels=a855f7&dates=e2d9ff&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Akarshkushwaha&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a855f7&fire=e100ff&currStreakLabel=a855f7&sideLabels=a855f7&dates=e2d9ff&currStreakNum=ffffff&sideNums=ffffff" width="80%" />
 
 </div>
 
