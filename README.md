@@ -141,7 +141,6 @@ Automated pipeline: **lecture video → structured notes** with 70% less manual 
 | HackerRank | **4★** | Strong problem solver |
 | LeetCode | **600+ solved** | Global Rank **#2569** — Weekly Contest #458 |
 
-🏅 **Winner** — Hackfista Web Hackathon & CP20 · IT Clinic, MJPRU
 
 </div>
 
