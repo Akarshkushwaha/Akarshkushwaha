@@ -2,7 +2,7 @@
 
 # Akarsh Kushwaha
 
-### Full Stack Engineer · Competitive Programmer · AI Builder
+### Full Stack Engineer · Competitive Programmer 
 
 <br/>
 
