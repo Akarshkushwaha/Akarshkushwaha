@@ -1,7 +1,7 @@
 <div align="center">
 
 # Akarsh Kushwaha
-
+ 
 ### Full Stack Engineer · Competitive Programmer  
 
 <br/>
