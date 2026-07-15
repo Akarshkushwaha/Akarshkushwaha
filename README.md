@@ -50,7 +50,7 @@ cp_stats:
 | **Frontend** | Next.js, React.js, Vue.js, Redux, Tailwind CSS |
 | **Backend** | Node.js, Express.js, Django, REST APIs, WebSockets (Socket.IO) |
 | **AI / ML** | PyTorch, HuggingFace Transformers, OpenAI Whisper, Gradio |
-| **Databases & Cloud** | PostgreSQL, MongoDB, MySQL, Supabase, AWS (EC2) |
+| **Databases & Cloud** | PostgreSQL, MongoDB, MySQL, Supabase, AWS |
 | **DevOps & Tools** | Docker, Kubernetes, Git, GitHub, CI/CD, Vercel, Postman |
 
 ---
