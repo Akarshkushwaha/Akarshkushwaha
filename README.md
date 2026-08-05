@@ -16,9 +16,6 @@
   <a href="mailto:akarshkushwaha593@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3ddc84" alt="Email" />
   </a>
-  <a href="https://akarsh04.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Blog-0D1117?style=for-the-badge&logo=hashnode&logoColor=3ddc84" alt="Hashnode" />
-  </a>
 </div>
 
 <br />
