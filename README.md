@@ -107,5 +107,5 @@ I am a Software Engineer with a focus on backend development, API design, and re
 <br />
 
 <div align="center">
-  <i>Let's engineer the future together.</i>
+  <i>Like what you see? Let's connect! Drop me a message at <a href="mailto:akarshkushwaha593@gmail.com">akarshkushwaha593@gmail.com</a>.</i>
 </div>
