@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://akarsh04.hashnode.dev/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&color=3ddc84&center=true&vCenter=true&width=600&lines=Software+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&color=3ddc84&center=true&vCenter=true&width=600&lines=Backend+Developer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer with a focus on backend development, API design, and real-time applications. I enjoy writing clean code, building useful developer tools, and solving challenging logic problems. 
+I'm a developer, computer science student, and open source contributor focused on backend systems, API design, and real-time applications. I spend most of my time writing clean code, building useful developer tools, and solving logic problems.
 
 - 🔭 Currently building open-source developer tools like **Verto**, **Recon**, and **Study Mitra**.
 - 🤝 Open Source Contributor at **Screenpipe (YC S26)**, **Submitty**, and **OpenML**.
