@@ -1,6 +1,3 @@
-Here is the updated markdown code with **Study Mitra** featured instead of Chatty. You can copy this straight into your `README.md`:
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3ddc84&height=200&section=header&text=Hi,%20I'm%20Akarsh%20Kushwaha!&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Infrastructure%20|%20High-Concurrency%20Systems&descAlignY=55&descAlign=50" alt="header" />
 </div>
@@ -96,4 +93,3 @@ I am a **Software Engineer** specializing in **high-concurrency backend services
 <div align="center">
   <i>Let's build something awesome together! 🚀</i>
 </div>
-```
