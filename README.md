@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://akarsh04.hashnode.dev/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&color=3ddc84&center=true&vCenter=true&width=600&lines=Software+Engineer;High-Concurrency+Backend+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&color=3ddc84&center=true&vCenter=true&width=600&lines=Software+Engineer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
