@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://akarsh04.hashnode.dev/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&color=3ddc84&center=true&vCenter=true&width=600&lines=Software+Engineer;High-Concurrency+Backend+Systems;Building+Real-Time+Collaboration+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&color=3ddc84&center=true&vCenter=true&width=600&lines=Software+Engineer;High-Concurrency+Backend+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -87,7 +87,7 @@ I am a **Software Engineer** specializing in **high-concurrency backend services
 > **[Recon](https://github.com/Akarshkushwaha/Recon) — Real-Time Git Conflict Detector**  
 > A real-time conflict detection platform mapping live Git branch activity via webhooks to prevent code overlaps before PRs. Built with Next.js and Convex.
 
-> **[Study Mitra](https://github.com/Akarshkushwaha/) — Intelligent Study Companion**  
+> **[Study Mitra](https://github.com/Akarshkushwaha/AI-Lecture-Intelligence-Tool) — Intelligent Study Companion**  
 > A highly responsive platform providing intelligent study resources and collaborative learning tools for students, built with React and Node.js.
 
 <br />
