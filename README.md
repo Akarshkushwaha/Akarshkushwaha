@@ -25,13 +25,13 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in **high-concurrency backend services, real-time systems, and scalable infrastructure**. I thrive on designing robust architectures that solve complex engineering bottlenecks.
+I am a Software Engineer with a focus on backend development, API design, and real-time applications. I enjoy writing clean code, building useful developer tools, and solving challenging logic problems. 
 
-- 🔭 Currently building autonomous developer tools like **Verto**, **Recon**, and **Study Mitra**.
+- 🔭 Currently building open-source developer tools like **Verto**, **Recon**, and **Study Mitra**.
 - 🤝 Open Source Contributor at **Screenpipe (YC S26)**, **Submitty**, and **OpenML**.
 - 🏆 Selected as a scholar for the **Amazon ML Summer School 2026**.
 - 🚀 Competitive Programmer: Solved **600+ DSA problems** across platforms. Codeforces Specialist (Max Rating: 1420).
-- 💡 Deeply interested in Distributed Systems, Real-Time Engines, and Core Computer Science.
+- 💡 Interested in backend architecture, open-source development, and competitive programming.
 
 <br />
 
