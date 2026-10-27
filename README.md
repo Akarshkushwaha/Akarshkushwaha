@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Akarsh Kushwaha 👋</h1>
 
-
 <br />
 
 ## 👨‍💻 About Me
@@ -14,7 +13,6 @@ I'm a developer, computer science student, and open source contributor focused o
 - 💡 Interested in backend architecture, open-source development, and competitive programming.
 
 <br />
-
 
 ## 🚀 Highlighted Engineering 
 
