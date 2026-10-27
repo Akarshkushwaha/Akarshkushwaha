@@ -32,49 +32,6 @@ I'm a developer, computer science student, and open source contributor focused o
 
 <br />
 
-## 🛠️ Technical Proficiency
-
-**Languages**  
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=3ddc84) 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3ddc84) 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=3ddc84) 
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3ddc84) 
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=3ddc84)
-
-**Frontend**  
-![React.js](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=3ddc84) 
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=3ddc84) 
-![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=3ddc84) 
-![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=3ddc84)
-
-**Backend & APIs**  
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3ddc84) 
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=3ddc84) 
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=json&logoColor=3ddc84) 
-![WebSockets](https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socket.io&logoColor=3ddc84) 
-![Gradio](https://img.shields.io/badge/Gradio-0D1117?style=for-the-badge&logo=python&logoColor=3ddc84)
-
-**Databases & Cloud**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=3ddc84) 
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=3ddc84) 
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=3ddc84) 
-![AWS](https://img.shields.io/badge/AWS_(EC2)-0D1117?style=for-the-badge&logo=amazonaws&logoColor=3ddc84)
-
-**DevOps & Tools**  
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=3ddc84) 
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=3ddc84) 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=3ddc84) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=3ddc84) 
-![CI/CD](https://img.shields.io/badge/CI/CD-0D1117?style=for-the-badge&logo=githubactions&logoColor=3ddc84) 
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=3ddc84)
-
-**Core CS & Architecture**  
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algos-0D1117?style=for-the-badge&logo=codeforces&logoColor=3ddc84) 
-![OOP](https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=3ddc84) 
-![DBMS](https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge&logo=databricks&logoColor=3ddc84) 
-![OS](https://img.shields.io/badge/Operating_Systems-0D1117?style=for-the-badge&logo=linux&logoColor=3ddc84)
-
-<br />
 
 ## 🚀 Highlighted Engineering 
 
