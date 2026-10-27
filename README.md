@@ -6,17 +6,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/akarshkushwaha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3ddc84" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/kush24371">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=3ddc84" alt="X/Twitter" />
-  </a>
-  <a href="mailto:akarshkushwaha593@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3ddc84" alt="Email" />
-  </a>
-</div>
 
 <br />
 
