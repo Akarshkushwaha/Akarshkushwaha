@@ -19,9 +19,6 @@ I'm a developer, computer science student, and open source contributor focused o
 > **[Verto](https://github.com/Akarshkushwaha/verto) — Automated GitHub PR Risk Guard**  
 > Native GitHub App that catches critical deployment risks before code merges. Powered by concurrent FastAPI webhook pipelines.
 
-> **[Recon](https://github.com/Akarshkushwaha/Recon) — Real-Time Git Conflict Detector**  
-> A real-time conflict detection platform mapping live Git branch activity via webhooks to prevent code overlaps before PRs. Built with Next.js and Convex.
-
 > **[Study Mitra](https://github.com/Akarshkushwaha/AI-Lecture-Intelligence-Tool) — Intelligent Study Companion**  
 > A highly responsive platform providing intelligent study resources and collaborative learning tools for students, built with React and Node.js.
 
